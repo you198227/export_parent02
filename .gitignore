@@ -1,0 +1,7 @@
+# Project exclude paths
+/export_commmons/target/
+/export_dao/target/
+/export_domain/target/
+/export_service/target/
+/export_web/target/
+/target/
